@@ -7,6 +7,10 @@
     </head>
 <body>
     <h1>Hello world </h1>
-    <p>apa aja boleh</p>
+    <p>kenapa coba</p>
+    <ul>
+    <li>satu</li>
+    <li>dua</li>
+    </ul>
 </body>
 </html>
